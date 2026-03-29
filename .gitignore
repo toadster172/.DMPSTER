@@ -1,0 +1,5 @@
+**/obj
+tools/binToRib
+tools/SDMenu.bin
+elfSD
+compile_commands.json
